@@ -134,16 +134,16 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #3178c6; 
-  width: 34.439%;
+  width: 34.437%;
 " class="progress-item"></span><span style="
   background-color: #dea584; 
-  width: 14.172%;
+  width: 14.171%;
 " class="progress-item"></span><span style="
   background-color: #00ADD8; 
-  width: 13.830%;
+  width: 13.829%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 9.960%;
+  width: 9.959%;
 " class="progress-item"></span><span style="
   background-color: #DA5B0B; 
   width: 5.407%;
@@ -196,11 +196,11 @@ div.ellipsis {
   background-color: #ff5a03; 
   width: 0.166%;
 " class="progress-item"></span><span style="
-  background-color: #a86454; 
+  background-color: #00ADD8; 
   width: 0.165%;
 " class="progress-item"></span><span style="
-  background-color: #00ADD8; 
-  width: 0.160%;
+  background-color: #a86454; 
+  width: 0.165%;
 " class="progress-item"></span><span style="
   background-color: #3D6117; 
   width: 0.146%;
@@ -592,6 +592,22 @@ div.ellipsis {
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
+      style="fill: #00ADD8;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="lang">Go Template</span>
+  <span class="percent">0.17%</span>
+</li>
+<li style="animation-delay: 3450ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
       style="fill: #a86454;" 
       viewBox="0 0 16 16" 
       version="1.1" 
@@ -603,22 +619,6 @@ div.ellipsis {
   ></path></svg>
   <span class="lang">Pug</span>
   <span class="percent">0.17%</span>
-</li>
-<li style="animation-delay: 3450ms;">
-  <svg 
-      xmlns="http://www.w3.org/2000/svg" 
-      class="octicon"
-      style="fill: #00ADD8;" 
-      viewBox="0 0 16 16" 
-      version="1.1" 
-      width="16" 
-      height="16"
-  ><path 
-      fill-rule="evenodd" 
-      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
-  ></path></svg>
-  <span class="lang">Go Template</span>
-  <span class="percent">0.16%</span>
 </li>
 <li style="animation-delay: 3600ms;">
   <svg 
