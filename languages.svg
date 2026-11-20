@@ -134,10 +134,10 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #3178c6; 
-  width: 31.060%;
+  width: 31.061%;
 " class="progress-item"></span><span style="
   background-color: #dea584; 
-  width: 28.762%;
+  width: 28.734%;
 " class="progress-item"></span><span style="
   background-color: #00ADD8; 
   width: 10.100%;
@@ -167,7 +167,7 @@ div.ellipsis {
   width: 0.890%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 0.760%;
+  width: 0.787%;
 " class="progress-item"></span><span style="
   background-color: #ec915c; 
   width: 0.656%;
@@ -285,7 +285,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Rust</span>
-  <span class="percent">28.76%</span>
+  <span class="percent">28.73%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -445,7 +445,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Shell</span>
-  <span class="percent">0.76%</span>
+  <span class="percent">0.79%</span>
 </li>
 <li style="animation-delay: 1950ms;">
   <svg 
